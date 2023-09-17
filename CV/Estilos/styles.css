@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    display: flex;
+  }
+
+#Yo {
+    height: 20%;
+    width: 20%;
+}
+
+#Linkedin {
+    height: 5rem;
+    width: 5rem;
+}
+
+video {
+    height: 20%;
+    width: 20%;
+}
